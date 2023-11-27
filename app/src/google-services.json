@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "812196312634",
+    "firebase_url": "https://projectone-7b58f-default-rtdb.firebaseio.com",
+    "project_id": "projectone-7b58f",
+    "storage_bucket": "projectone-7b58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812196312634:android:80fb5f9cf0a22f5384e703",
+        "android_client_info": {
+          "package_name": "com.tapaswini.vyaparinetwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmliXatfDLUeZ_uOfLvb5z4DUKe9ucqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812196312634:android:5adf002ab5b5c15484e703",
+        "android_client_info": {
+          "package_name": "tapaswini.loginTest_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmliXatfDLUeZ_uOfLvb5z4DUKe9ucqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
